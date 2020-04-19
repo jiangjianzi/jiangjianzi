@@ -2,8 +2,6 @@
 <head>
 <meta charset="utf-8">
   <title>对于阮小慧是猪的探讨</title>
-  <style>
-</style>
 </head>
 <body>
 <p>
